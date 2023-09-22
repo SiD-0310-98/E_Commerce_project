@@ -1,1 +1,2 @@
-# E_Commerce_project
+# Ecommerce_project
+This is my first Ecommerce project
